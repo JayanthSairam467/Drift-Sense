@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Dataset (too large for git)
+dataset*/
+output/
+
+# Training data (regenerable, too large for git)
+training_data*/
+
+# HuggingFace download cache
+hf_space_data/
+.cache/
+
+# Weights (large binary files — add to git LFS or upload separately)
+# weights/*.pth
+# weights/*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+quick_test.py
+download_hf.py
+*.log
+
+# Backup / misc
+Backup_Original_Code/
+.agents/
