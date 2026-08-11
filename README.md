@@ -108,7 +108,7 @@ Semicon1/
 
 ## Hardware
 
-- Development: Windows 11, NVIDIA RTX 3060 6GB
+- Development: Windows 11, NVIDIA RTX 3050 6GB
 - Inference: CPU-only compatible (GPU optional)
 
 ## Team
